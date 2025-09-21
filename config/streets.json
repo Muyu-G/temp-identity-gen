@@ -1,0 +1,7 @@
+{
+  "US": ["Main St", "Oak Ave", "Maple Rd", "Cedar Ln", "Elm St"],
+  "es": ["Calle Mayor", "Avenida del Sol", "Paseo de la Reforma"],
+  "zh": ["Renmin Rd", "Zhongshan St", "Jiefang Ave"],
+  "af": ["Church St", "Voortrekker Rd", "Pretorius St"],
+  "in": ["MG Road", "Brigade Road", "Commercial Street", "Church Street", "Indiranagar", "Jayanagar", "Koramangala", "Whitefield"]
+}

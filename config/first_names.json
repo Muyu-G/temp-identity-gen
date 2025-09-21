@@ -1,0 +1,10 @@
+{
+  "en": ["James", "Mary", "John", "Patricia"],
+  "es": ["Carlos", "Sofia", "Juan", "Maria"],
+  "zh": ["Wei", "Li", "Chen", "Mei"],
+  "af": ["Aisha", "Musa", "Fatima", "Ibrahim"],
+  "in": ["Aarav", "Aarush", "Aarya", "Advait", "Ananya", "Arjun", "Diya", "Ishaan", "Riya", "Saanvi", "Vihaan"],
+  "male": ["James", "John", "Michael"],
+  "female": ["Mary", "Patricia", "Jennifer"],
+  "neutral": ["Alex", "Taylor", "Jordan"]
+}

@@ -1,0 +1,5 @@
+requests 
+colorama # optional but worth it
+pyyaml 
+cryptography
+pyfiglet

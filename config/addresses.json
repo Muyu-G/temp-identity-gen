@@ -1,0 +1,8 @@
+{
+  "CA": ["Los Angeles", "San Francisco", "San Diego"],
+  "NY": ["New York", "Buffalo", "Albany"],
+  "TX": ["Houston", "Austin", "Dallas"],
+  "MH": ["Mumbai", "Pune", "Nagpur"],
+  "DL": ["New Delhi"],
+  "KA": ["Bangalore", "Mysore"]
+}
