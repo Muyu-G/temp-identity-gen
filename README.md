@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Temporary Identity Generator (**experimental**)
 
 A Python-based **temporary identity generator** designed to create realistic, random identities for testing and development purposes. This tool is **not intended for illegal or fraudulent activities**.
@@ -234,6 +233,3 @@ Licensed under the MIT License.
 
 ## Warning
 ⚠️ This tool is for testing and development purposes only. Do not use it for illegal or fraudulent activities.
-=======
-# temp-identity-gen
->>>>>>> 7430b13c0948e1851c082afdc61351cba855d43e
