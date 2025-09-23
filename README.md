@@ -1,4 +1,4 @@
-# Temporary Identity Generator (**experimental**)
+# Temporary Identity Generator
 
 A Python-based **temporary identity generator** designed to create realistic, random identities for testing and development purposes. This tool is **not intended for illegal or fraudulent activities**.
 
