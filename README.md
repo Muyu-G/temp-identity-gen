@@ -20,7 +20,7 @@ A Python-based **temporary identity generator** designed to create realistic, ra
 - Save identities in **JSON** or **CSV** formats
 - Optional preview before saving
 - Detailed log files for each generated identity
-- Cross-Platform: Windows, Linux, macOS ✅(banner may encounter render issues based on terminal encoding in diff os but functionality remains)
+- Cross-Platform: Windows, Linux, macOS ✅
 - No OS-specific assumptions ig ✅
 ---
 
